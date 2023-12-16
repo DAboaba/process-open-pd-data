@@ -1,0 +1,13 @@
+previous_task_name:
+    - obtain_dept_data
+
+departments:
+ - nypd
+ - cpd
+ - lapd
+ - dpd
+ - ppd
+ - phxpd
+ - mpd
+ - hpd
+
