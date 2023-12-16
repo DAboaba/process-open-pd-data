@@ -1,4 +1,4 @@
-## POLICING RELATED RCTs
+## Processing open police-department data
 
 **To clone the repo**:
     
