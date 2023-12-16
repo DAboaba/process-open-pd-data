@@ -1,0 +1,23 @@
+previous_task_name:
+    - clean_dept_data
+
+departments:
+     - nypd
+     - cpd
+     - lapd
+     - dpd
+     - ppd
+     - phxpd
+     - mpd
+     - hpd
+
+common_columns:
+    - dept
+    - district
+    - inc.year
+    - inc.month
+    - crime.ind
+    - index.crime.ind
+    - p1.vio.crime.ind
+    - homicide.ind
+
